@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **EEG based Speech Imagery generator**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
